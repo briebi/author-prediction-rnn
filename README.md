@@ -72,7 +72,7 @@ Ensure you have the following installed:
 1. Ensure the shuffled text files are in the same directory as the script.
 2. Execute the Python script:
     ```bash
-    python <script-name>.py
+    python main.py
     ```
 
 ### Output
