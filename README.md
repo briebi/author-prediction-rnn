@@ -56,8 +56,8 @@ Ensure you have the following installed:
 ### Installation
 1. Clone this repository:
     ```bash
-    git clone <repository-url>
-    cd <repository-directory>
+    git clone https://github.com/briebi/author-prediction-rnn.git
+    cd authot-prediction-rnn
     ```
 2. Install the required Python libraries:
     ```bash
